@@ -25,7 +25,7 @@ Berikut adalah daftar materi yang sudah dipelajari dan berhasil diimplementasika
 | 05 | `05_Perulangan_Loops` | Perulangan `for`, `while`, Kontrol Perulangan (`break`/`continue`) |  Done |
 | 06 | `06_Fungsi_Functions` | Blok Kode `def`, Parameter, Pengembalian Nilai (`return`) |  Done |
 | 07 | `07_OOP_Dasar` | Object-Oriented Programming (Class, Object, Atribut, Method) | Done |
-| 08 | `08_Penanganan_Error_Try_Except` | Simulasi Error (try-except-finally) | Done |
+| 08 | `08_Penanganan_Error_Try_Except` | Simulasi Error ('try'-'except'-'finally') | Done |
 
 ---
 
