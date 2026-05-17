@@ -24,7 +24,7 @@ Berikut adalah daftar materi yang sudah dipelajari dan berhasil diimplementasika
 | 04 | `04_Percabangan_If_Else` | Logika Kondisional, Multi Kondisi (`elif`), Operator Logika |  Done |
 | 05 | `05_Perulangan_Loops` | Perulangan `for`, `while`, Kontrol Perulangan (`break`/`continue`) |  Done |
 | 06 | `06_Fungsi_Functions` | Blok Kode `def`, Parameter, Pengembalian Nilai (`return`) |  Done |
-| 07 | `07_OOP_Dasar` | Object-Oriented Programming (Class, Object, Atribut, Method) | ⏳ Next |
+| 07 | `07_OOP_Dasar` | Object-Oriented Programming (Class, Object, Atribut, Method) | Done |
 
 ---
 
