@@ -38,7 +38,7 @@ Berikut adalah peta jalan (*roadmap*) pembelajaran Python yang saya tempuh beser
 | 09 | `09_Pengenalan_Library_NumPy` | N-Dimensional Array, Vectorization, Statistik Dasar NumPy |  Done |
 | 10 | `10_Analisis_Data_Pandas` | DataFrames & Series, Membaca CSV/Excel, Filtering Data | Done |
 | 11 | `11_Visualisasi_Data_Matplotlib_Seaborn`| Membuat Grafik (Line, Bar, Scatter), Kustomisasi Chart | Done |
-| 12 | `12_Mini_Project_Data_Analysis` | End-to-End Studi Kasus Analisis Data Nyata (Final Basic Exam) | ⏳ Next |
+| 12 | `12_Mini_Project_Data_Analysis` | End-to-End Studi Kasus Analisis Data Nyata (Final Basic Exam) | Done |
 
 ---
 
